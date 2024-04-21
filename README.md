@@ -1,4 +1,3 @@
-```
 # Resort Booking Landing Page
 
 This project is a landing page for a resort booking website, created using HTML and CSS. It provides users with a visually appealing interface to browse and surf resort accommodations.
@@ -37,4 +36,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 If you have any questions or suggestions regarding the project, feel free to contact the author at sakeenaalam999@gmail.com
 
-```
+
